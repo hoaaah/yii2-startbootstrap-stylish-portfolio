@@ -17,8 +17,6 @@ class StylishPortofolioAsset extends AssetBundle
     ];
     
     public $js=[
-        'js/jquery-1.11.0.js',
-        'js/stylish-portfolio.js',
     ];
     
     public $depends = [
