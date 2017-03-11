@@ -8,7 +8,7 @@ use yii\web\AssetBundle;
  */
 class StylishPortofolioAsset extends AssetBundle
 {
-    public $sourcePath='@vendor/hoaaah/stylish/assets';
+    public $sourcePath='@vendor/hoaaah/yii2-startbootstrap-stylish-portfolio/assets';
     public $baseUrl = '@web';
     
     public $css=[
