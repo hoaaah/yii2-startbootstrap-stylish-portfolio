@@ -19,7 +19,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require --prefer-dist hoaaah/yii2-startbootstrap-stylish-portfolio "*"
+composer require hoaaah/yii2-startbootstrap-stylish-portfolio:dev-master
 ```
 
 or add
