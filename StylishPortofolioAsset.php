@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 /**
  * sb-StylishPortofolio AssetBundle
  */
-class StylishPortfolioAsset extends AssetBundle
+class StylishPortofolioAsset extends AssetBundle
 {
     public $sourcePath='@vendor/hoaaah/stylish/assets';
     public $baseUrl = '@web';
